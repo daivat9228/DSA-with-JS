@@ -112,51 +112,51 @@ console.log("JavaScript loaded successfully!");
           // }
 
      // ------------------- Switch case ------------------
-          let day = Number(prompt("Enter day number (1-7): "));
+          // let day = Number(prompt("Enter day number (1-7): "));
 
-          switch(day){   // for contant value checking, switch case is used
-               case 1:console.log("monday");
-               break;    
-               case 2:console.log("tuesday");     
-               break;
-               case 3:console.log("wednesday");     
-               break;
-               case 4:console.log("thursday");    
-               break;
-               case 5:console.log("friday");     
-               break;
-               case 6:console.log("saturday");     
-               break;
-               case 7:console.log("sunday");     
-               break;
-               default:console.log("invalid input");
-          }
+          // switch(day){   // for contant value checking, switch case is used
+          //      case 1:console.log("monday");
+          //      break;    
+          //      case 2:console.log("tuesday");     
+          //      break;
+          //      case 3:console.log("wednesday");     
+          //      break;
+          //      case 4:console.log("thursday");    
+          //      break;
+          //      case 5:console.log("friday");     
+          //      break;
+          //      case 6:console.log("saturday");     
+          //      break;
+          //      case 7:console.log("sunday");     
+          //      break;
+          //      default:console.log("invalid input");
+          // }
 
-          let day = Number(prompt("Enter day number (1-7): "));
+          // let day = Number(prompt("Enter day number (1-7): "));
 
-          switch(day){
-               case 1:   
-               case 2:
-               case 3:console.log("working day");
-               break;    
-               case 4:   
-               case 5:
-               case 6:
-               case 7:console.log("holiday");
-               break;
-               default:console.log("invalid input");
-          }
+          // switch(day){
+          //      case 1:   
+          //      case 2:
+          //      case 3:console.log("working day");
+          //      break;    
+          //      case 4:   
+          //      case 5:
+          //      case 6:
+          //      case 7:console.log("holiday");
+          //      break;
+          //      default:console.log("invalid input");
+          // }
 
-          let num = Number(prompt("Enter any number: "));
-          switch(true){
-               case num > 0:console.log("positive number");
-               break;
-               case num < 0:console.log("negative number");
-               break;
-               case num === 0:console.log("zero");
-               break;
-               default:console.log("invalid input");
-          }
+          // let num = Number(prompt("Enter any number: "));
+          // switch(true){
+          //      case num > 0:console.log("positive number");
+          //      break;
+          //      case num < 0:console.log("negative number");
+          //      break;
+          //      case num === 0:console.log("zero");
+          //      break;
+          //      default:console.log("invalid input");
+          // }
 
 
 // Video 3: Everything about loops
